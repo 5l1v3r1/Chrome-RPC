@@ -13,7 +13,7 @@
 
 5: Top right _:_ Enable Developer Mode then Load Unpacked 
 
-6: Go to the extracted zip folder, and look for *src*
+6: Go to the extracted zip folder, and look for *src* then *ext*
 
 7: After, in your file explorer go the extracted folder, and then *src*, click install then start.
 
