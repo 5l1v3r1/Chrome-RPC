@@ -1,5 +1,5 @@
-cd ./src/
+cd./ src /
 
-npm i --save
+    npm i--save
 
 pause
