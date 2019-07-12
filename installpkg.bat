@@ -1,4 +1,4 @@
- cd ./ src /
+ cd ./src/
 
  npm i--save
 
