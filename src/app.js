@@ -5,11 +5,9 @@ const RPC = require('discord-rpc');
 const client = new RPC.Client({ transport: "ipc" });
 const presence = require('./presence.js')
 
-let clientID = "579904628641234944";
-let clientS = "jOHQapXC8r6Y7amA_ysrEPippod15nNr"
+let clientID = "579904628641234944"; 
 
-client.login({ clientId: clientID, clientSecret: clientS }).catch(console.error);
-
+client.login({ clientId: clientID }).catch(console.error);
 
 client.on('ready', () => {
     const app = express()
