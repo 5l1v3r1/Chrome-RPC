@@ -8,7 +8,7 @@
 
 2: Download as ZIP: [CLICK HERE FOR AUTO DOWNLOAD](https://github.com/Freak-chan/Chrome-RPC/archive/master.zip)
 
-3: Extract **anywhere**
+3: Extract ANYWHERE
 
 4: Open chrome and go to top right (three dots) > More Tools > Extensions 
 
@@ -22,4 +22,4 @@
 
 ```
 
-** MAKE SURE  DISCORD APP IS RUNNING **
+**MAKE SURE  DISCORD APP IS RUNNING**
