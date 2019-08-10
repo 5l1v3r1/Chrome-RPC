@@ -18,7 +18,7 @@ function update (tab) {
         status: "complete",
         action: "set",
         url: tab.url,
-        details: url.hostname,
+        details: url.hostname || tab.url,
         smallText: tab.url,
         largeText: tab.title
       };
@@ -31,7 +31,7 @@ function update (tab) {
       status: tab.status,
       action: "set",
       url: tab.url,
-      details: url.hostname,
+      details: url.hostname || tab.url,
       smallText: tab.url,
       largeText: tab.title
     };
