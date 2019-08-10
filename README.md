@@ -15,7 +15,7 @@
 
 6: Go to the extracted zip folder, and look for *src* then *ext*
 
-7: After, in your file explorer go the extracted folder, and then *src*, click install then start.
+7: After, in your file explorer go the extracted folder, click install then start.
 
 
 
